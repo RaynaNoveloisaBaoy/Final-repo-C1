@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="images">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/WAP-master/build/app/intermediates/compressed_assets/debug/out/assets/flutter_assets/assets/images/dog.png.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WAP-master/build/app/intermediates/compressed_assets/debug/out/assets/flutter_assets/assets/images/excited.png.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WAP-master/build/app/intermediates/compressed_assets/debug/out/assets/flutter_assets/assets/images/5.png.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WAP-master/build/app/intermediates/compressed_assets/debug/out/assets/flutter_assets/assets/images/4.png.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WAP-master/build/app/intermediates/compressed_assets/debug/out/assets/flutter_assets/assets/images/pdf.png.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WAP-master/build/app/intermediates/compressed_assets/debug/out/assets/flutter_assets/assets/images/wap_logo.png.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WAP-master/build/app/intermediates/compressed_assets/debug/out/assets/flutter_assets/assets/images/photo.png.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WAP-master/build/app/intermediates/compressed_assets/debug/out/assets/flutter_assets/assets/images/setUpPets.png.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WAP-master/build/app/intermediates/compressed_assets/debug/out/assets/flutter_assets/assets/images/confused.png.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
